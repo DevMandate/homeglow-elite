@@ -214,7 +214,7 @@ export function ServiceDetail() {
                 </Link>
                 <div className="mt-4 pt-4 border-t border-white/10 text-center">
                   <p className="text-white/40 text-xs mb-1">Need help? WhatsApp us</p>
-                  <a href="https://wa.me/254712345678" className="text-[#25D366] font-semibold text-sm hover:text-[#20be5c]">+254796578077</a>
+                  <a href="https://wa.me/254796578077" className="text-[#25D366] font-semibold text-sm hover:text-[#20be5c]">+254796578077</a>
                 </div>
               </div>
 

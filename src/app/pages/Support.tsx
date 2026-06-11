@@ -108,7 +108,7 @@ export function Support() {
                 <p className="text-[#0B2545] font-medium mb-2">Still have questions?</p>
                 <p className="text-gray-500 text-sm mb-4">Our team is available to help. Reach out via any of these channels:</p>
                 <div className="flex flex-wrap gap-3 justify-center">
-                  <a href="https://wa.me/254712345678" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-[#25D366] text-white rounded-lg text-sm font-medium">
+                  <a href="https://wa.me/254796578077" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-[#25D366] text-white rounded-lg text-sm font-medium">
                     <MessageCircle className="w-4 h-4" /> WhatsApp
                   </a>
                   <Link to="/contact" className="flex items-center gap-2 px-4 py-2 bg-[#0B2545] text-white rounded-lg text-sm font-medium">

@@ -78,8 +78,8 @@ export function Contact() {
                 <h2 className="text-2xl text-[#0B2545] mb-6" style={{ fontFamily: "var(--font-display)", fontWeight: 600 }}>Contact Information</h2>
                 <div className="space-y-4">
                   {[
-                    { icon: Phone, label: "Phone", value: "+254796578077", href: "tel:+254712345678" },
-                    { icon: MessageCircle, label: "WhatsApp", value: "+254796578077", href: "https://wa.me/254712345678" },
+                    { icon: Phone, label: "Phone", value: "+254796578077", href: "tel:+254796578077" },
+                    { icon: MessageCircle, label: "WhatsApp", value: "+254796578077", href: "https://wa.me/254796578077" },
                     { icon: Mail, label: "Email", value: "serviceshomeglow@gmail.com", href: "mailto:serviceshomeglow@gmail.com" },
                     { icon: MapPin, label: "Address", value: "Juja, Kiambu, Kenya", href: "#" },
                   ].map((item) => (

@@ -102,7 +102,7 @@ export function Booking() {
             <Link to="/" className="flex-1 py-3 border-2 border-[#0B2545] text-[#0B2545] rounded-xl text-sm font-medium hover:bg-[#0B2545] hover:text-white transition-all text-center">
               Back to Home
             </Link>
-            <a href="https://wa.me/254712345678" target="_blank" rel="noopener noreferrer" className="flex-1 py-3 bg-[#25D366] text-white rounded-xl text-sm font-medium text-center">
+            <a href="https://wa.me/254796578077" target="_blank" rel="noopener noreferrer" className="flex-1 py-3 bg-[#25D366] text-white rounded-xl text-sm font-medium text-center">
               WhatsApp Us
             </a>
           </div>
